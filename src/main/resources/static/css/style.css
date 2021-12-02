@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.container{
+	margin-top: 5%;
+}
+
+.btn_position{
+	margin-left: 8.4%;
+}
+
+label{
+	width: 100px;
+}
+
+input{
+	margin: 5px;
+}
+
+select{
+	margin-left: 8.4%;
+}
+
+.center{
+	margin-left: 50%;
+}
